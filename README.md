@@ -1,3 +1,1 @@
-# ono-tebe-nado
-Проект "Оно тебе надо"
-https://github.com/Makson4uk/ono-tebe-nado
+[Ссылка на Git] (https://github.com/Makson4uk/ono-tebe-nado)
