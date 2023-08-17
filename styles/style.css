@@ -94,7 +94,7 @@
 }
 
 .title_start {
-  width: 1340px;
+  width: 100%;
   color: #ffffff;
   font-family: Raleway, sans-serif;
   font-size: 100px;
@@ -117,7 +117,7 @@
 }
 
 .title_center_start {
-  width: 1340px;
+  width: 100%;
   color: #fff;
   text-align: center;
   font-family: Raleway, sans-serif;
@@ -140,7 +140,7 @@
 }
 
 .title_end_start {
-  width: 1340px;
+  width: 100%;
   color: #fff;
   text-align: right;
   font-family: Raleway, sans-serif;
@@ -212,6 +212,7 @@
   padding-bottom: 12px;
   padding-left: 32px;
   border: 1px solid white;
+  cursor: pointer;
 }
 
 .lots {
@@ -219,7 +220,6 @@
 }
 
 .lots-heading {
-  width: 121px;
   color: #000;
   font-family: Raleway, sans-serif;
   font-size: 40px;
